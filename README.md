@@ -3,7 +3,7 @@
 
 <!-- ### jaewoong.dev -->
 
-  <img width="80%" alt="Header" src="header.svg" />
+  <img width="50%" alt="Header" src="header.svg" />
 
 </div>
 
