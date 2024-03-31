@@ -18,17 +18,26 @@
   <br/>
   <br/>
 
-<b>skills</b>
+  <b>skills</b>
+  <br/>
 
   [![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,scss,styledcomponents,tailwind,git,vite,vercel&perline=6)](https://skillicons.dev)
 
+  ...studying <b>Next.js, D3, R3F</b>
 
-<b>in study</b>
+<!--
 
-  [![My Skills](https://skillicons.dev/icons?i=nextjs,d3,threejs&perline=6)](https://skillicons.dev)
+|project|description|period|
+|:------|:---|:---|
+|<a href="https://github.com/Team-SilverTown/Team-SilverTown-MasilGasil-FE">👟 새로운 산책을 원할 때, 마실가실</a>|실시간 산책 기록 및 산책로 공유 서비스|2024.2~2024.3 (2개월)|
+|테스트1|테스트2|테스트3|
+|테스트1|테스트2|테스트3|
+
+TODO: contact, introduce
+-->
+
+
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=333333&amp;height=150&amp;section=footer" alt="footer">
 
 </div>
-
-<p align=center class="has-line-data" data-line-start="15" data-line-end="16">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=333333&amp;height=150&amp;section=footer" alt="footer">
-</p>
